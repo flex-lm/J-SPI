@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 2/11/2015 9:55:26 AM
+
+BeginCmp
+TimeStamp = /54DB60C6;
+Reference = P1;
+ValeurCmp = CONN_10X2;
+IdModule  = pin_array_10x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DB629D;
+Reference = U1;
+ValeurCmp = FLASH;
+IdModule  = DIP-8__300;
+EndCmp
+
+EndListe
